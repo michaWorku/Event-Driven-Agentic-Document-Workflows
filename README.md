@@ -37,7 +37,7 @@
 - Handle multiple field queries concurrently
 - Aggregate results to auto-fill forms
 
-### 5. [**Human-in-the-Loop**](./L5-Human-in-the-Loop)
+### 5. [**Human in the Loop**](./L5-Human-in-the-Loop)
 - Insert feedback points using `InputRequiredEvent` and `HumanResponseEvent`
 - Re-trigger field-level RAG based on feedback
 - Append feedback to questions for contextual improvements
